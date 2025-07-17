@@ -1,0 +1,14 @@
+Linux commands:
+
+pwd - Present Working Directory
+
+cd - change directory
+
+touch - create a file
+
+cat - fetch the content from the file
+
+rm - remove the file
+
+ls - list out the files in the current directory
+
