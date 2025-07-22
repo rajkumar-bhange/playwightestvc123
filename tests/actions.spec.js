@@ -24,6 +24,7 @@
 import{test,expect}from'@playwright/test'
 
 test('actions',async({page})=>{
+   
     await page.goto('https://gotranscript.com/text-compare')
     await page.locator('//textarea[@name="text1"]').fill('rajkumar')
     await page.keyboard.press('Control+A')
@@ -56,10 +57,18 @@ test('double click',async({page})=>{
     await page.pause();
 })
 
-test.only('grag and deop',async({page})=>{
+test('grag and deop',async({page})=>{
     await page.goto('https://testautomationpractice.blogspot.com/')
     const drag=await page.locator('//div[@id="draggable"]')
     const drop=await page.locator('//div[@id="droppable"]')
     await drag.dragTo(drop);
     await page.pause();
+})
+
+test.only('mouse scroling',async({page})=>{
+     await page.setViewportSize({width:360,height:768});
+await page.goto('https://testautomationpractice.blogspot.com/')
+await page.mouse.wheel(0,3000)
+await page.mouse.wheel(-3000,0)
+await page.pause();
 })

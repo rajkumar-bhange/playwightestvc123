@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6569","Negative password test","chromium","Sat Jul 19 11:24:23 IST 2025","passed","Sat Jul 19 11:24:29 IST 2025","","rajkumar.spec.js","",""
+"","6588","Negative username test","chromium","Sat Jul 19 11:24:23 IST 2025","passed","Sat Jul 19 11:24:29 IST 2025","","rajkumar.spec.js","",""
+"","15966","page object model","chromium","Sat Jul 19 11:25:11 IST 2025","passed","Sat Jul 19 11:25:27 IST 2025","","pom.spec.js","",""
+"","7163","Positive LogIn test","chromium","Sat Jul 19 11:24:23 IST 2025","failed","Sat Jul 19 11:24:30 IST 2025","","rajkumar.spec.js","",""
