@@ -7,3 +7,9 @@ test('login',async({page})=>{
     await page.locator('//button[@type="submit"]').click();
     await page.pause();
 })
+
+
+
+
+// npx playwright codegen
+// npx playwright codegen --outupt
