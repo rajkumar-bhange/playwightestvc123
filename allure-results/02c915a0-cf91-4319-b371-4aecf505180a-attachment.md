@@ -1,0 +1,85 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - heading "Automation Testing Practice" [level=1]
+  - paragraph: For Selenium, Cypress & Playwright
+- list:
+  - listitem:
+    - link "Home":
+      - /url: http://testautomationpractice.blogspot.com/
+  - listitem:
+    - link "Udemy Courses":
+      - /url: https://www.pavanonlinetrainings.com/p/udemy-courses.html
+  - listitem:
+    - link "Online Trainings":
+      - /url: https://www.pavanonlinetrainings.com/
+  - listitem:
+    - link "Blog":
+      - /url: https://www.pavantestingtools.com/
+  - listitem:
+    - link "PlaywrightPractice":
+      - /url: https://testautomationpractice.blogspot.com/p/playwrightpractice.html
+- heading "GUI Elements" [level=3]:
+  - link "GUI Elements":
+    - /url: https://testautomationpractice.blogspot.com/2018/09/automation-form.html
+- text: "Name:"
+- textbox "Enter Name": rakumar
+- text: "Email:"
+- textbox "Enter EMail"
+- text: "Phone:"
+- textbox "Enter Phone"
+- text: "Address:"
+- textbox "Address:"
+- text: "Gender:"
+- radio "Male"
+- text: Male
+- radio "Female"
+- text: "Female Days:"
+- checkbox "Sunday"
+- text: Sunday
+- checkbox "Monday"
+- text: Monday
+- checkbox "Tuesday"
+- text: Tuesday
+- checkbox "Wednesday"
+- text: Wednesday
+- checkbox "Thursday"
+- text: Thursday
+- checkbox "Friday"
+- text: Friday
+- checkbox "Saturday"
+- text: "Saturday Country:"
+- combobox "Country:":
+  - option "United States" [selected]
+  - option "Canada"
+  - option "United Kingdom"
+  - option "Germany"
+  - option "France"
+  - option "Australia"
+  - option "Japan"
+  - option "China"
+  - option "Brazil"
+  - option "India"
+- text: "Colors:"
+- listbox "Colors:":
+  - option "Red"
+  - option "Blue"
+  - option "Green"
+  - option "Yellow"
+  - option "Red"
+  - option "White"
+  - option "Green"
+- text: "Sorted List:"
+- listbox "Sorted List:":
+  - option "Cat"
+  - option "Cheetah"
+  - option "Deer"
+  - option "Dog"
+  - option "Elephant"
+  - option "Fox"
+  - option "Giraffe"
+  - option "Lion"
+  - option "Rabbit"
+  - option "Zebra"
+```
