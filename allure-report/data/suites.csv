@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2272","Suggession Class Example","chromium","Mon Jul 28 19:45:49 IST 2025","passed","Mon Jul 28 19:45:51 IST 2025","","rajkumar1.spec.js","",""
+"","17820","flh","chromium","Mon Jul 28 19:45:41 IST 2025","failed","Mon Jul 28 19:45:58 IST 2025","","hadleTab.spec.js","",""
+"","7515","mulltiple select checkbox","chromium","Mon Jul 28 19:45:41 IST 2025","passed","Mon Jul 28 19:45:48 IST 2025","","checkbox.spec.js","",""
+"","11027","mouse scroling","chromium","Mon Jul 28 19:45:41 IST 2025","passed","Mon Jul 28 19:45:52 IST 2025","","actions.spec.js","",""
+"","14735","open in the same tab","chromium","Mon Jul 28 19:45:41 IST 2025","passed","Mon Jul 28 19:45:55 IST 2025","","handle1.spec.js","",""
